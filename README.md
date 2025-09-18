@@ -19,4 +19,4 @@
 
 **저장소 이미지** 삽입하기
 
-! [토이스토리](https://github.com/minseo0614/test-1/IMG_1150.jpg)
+![토이스토리](https://github.com/minseo0614/test-1/IMG_1150.jpg)
